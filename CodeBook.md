@@ -1,10 +1,10 @@
-#Data Dictionary Tidy Data
+# Data Dictionary Tidy Data
 
-##Group.1
+## Group.1
 	Subject number (1-30) 
 represents the 30 volunteers between the ages of 19-48 wearing a Samsung Galaxy SII on the waist. 
 
-##Group.2
+## Group.2
 	Activity levels 
 		WALKING
 		WALKING_UPSTAIRS
@@ -13,7 +13,7 @@ represents the 30 volunteers between the ages of 19-48 wearing a Samsung Galaxy 
 		STANDING
 		LAYING
 		
-##Variables:
+## Variables:
 1.	" time body acceleration -mean()-x" 
 2.	" time body acceleration -mean()-y" 
 3.	" time body acceleration -mean()-z" 
@@ -94,7 +94,7 @@ represents the 30 volunteers between the ages of 19-48 wearing a Samsung Galaxy 
 78.	" frequency bodybodygyrojerkmag-std()" 
 79.	" frequency bodybodygyrojerkmag-meanfreq()"
 
-###Notes:  
+### Notes:  
 Std = Standard deviation
 Mag = magnitude
 X,Y,Z = axis the data was taken on
