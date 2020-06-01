@@ -95,8 +95,8 @@ represents the 30 volunteers between the ages of 19-48 wearing a Samsung Galaxy 
 79.	" frequency bodybodygyrojerkmag-meanfreq()"
 
 ### Notes:  
-Std = Standard deviation
-Mag = magnitude
+Std = Standard deviation,
+Mag = magnitude,
 X,Y,Z = axis the data was taken on
 
 Each row is the mean value over each variable by subject no. and activity levels
